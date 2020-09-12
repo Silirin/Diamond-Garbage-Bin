@@ -1,0 +1,7 @@
+F:\Алмазное Мусорное Ведро\WhatAmIDoing\WhatAmIDoing\bin\Debug\WhatAmIDoing.exe.config
+F:\Алмазное Мусорное Ведро\WhatAmIDoing\WhatAmIDoing\bin\Debug\WhatAmIDoing.exe
+F:\Алмазное Мусорное Ведро\WhatAmIDoing\WhatAmIDoing\bin\Debug\WhatAmIDoing.pdb
+F:\Алмазное Мусорное Ведро\WhatAmIDoing\WhatAmIDoing\obj\Debug\WhatAmIDoing.csprojAssemblyReference.cache
+F:\Алмазное Мусорное Ведро\WhatAmIDoing\WhatAmIDoing\obj\Debug\WhatAmIDoing.csproj.CoreCompileInputs.cache
+F:\Алмазное Мусорное Ведро\WhatAmIDoing\WhatAmIDoing\obj\Debug\WhatAmIDoing.exe
+F:\Алмазное Мусорное Ведро\WhatAmIDoing\WhatAmIDoing\obj\Debug\WhatAmIDoing.pdb
