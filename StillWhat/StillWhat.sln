@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StillWhat", "StillWhat\StillWhat.csproj", "{A734774A-9810-4215-A0CB-5CF4B060F1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A734774A-9810-4215-A0CB-5CF4B060F1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A734774A-9810-4215-A0CB-5CF4B060F1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A734774A-9810-4215-A0CB-5CF4B060F1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A734774A-9810-4215-A0CB-5CF4B060F1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63791462-A529-4098-B632-7F56FC0CA428}
+	EndGlobalSection
+EndGlobal

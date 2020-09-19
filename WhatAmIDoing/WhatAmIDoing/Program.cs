@@ -16,6 +16,7 @@ namespace WhatAmIDoing
         {
             ConnectionString = @"Data Source = (localdb)\MSSQLLocalDB; Initial Catalog = Library; Integrated Security = SSPI;"
         };
+
         static void Main(string[] args)
         {
             SqlDataReader rdr = null;

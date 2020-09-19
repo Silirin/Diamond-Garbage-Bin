@@ -1,0 +1,10 @@
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\bin\Debug\StillWhat.exe.config
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\bin\Debug\StillWhat.exe
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\bin\Debug\StillWhat.pdb
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\obj\Debug\StillWhat.csprojAssemblyReference.cache
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\obj\Debug\StillWhat.Form1.resources
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\obj\Debug\StillWhat.Properties.Resources.resources
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\obj\Debug\StillWhat.csproj.GenerateResource.cache
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\obj\Debug\StillWhat.csproj.CoreCompileInputs.cache
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\obj\Debug\StillWhat.exe
+F:\Алмазное Мусорное Ведро\StillWhat\StillWhat\obj\Debug\StillWhat.pdb
