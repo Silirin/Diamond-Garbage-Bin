@@ -1,0 +1,15 @@
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\bin\Debug\ShoZaWPF.exe.config
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\bin\Debug\ShoZaWPF.exe
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\bin\Debug\ShoZaWPF.pdb
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\ShoZaWPF.csprojAssemblyReference.cache
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\MainWindow.g.cs
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\App.g.cs
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\ShoZaWPF_MarkupCompile.cache
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\ShoZaWPF_MarkupCompile.lref
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\MainWindow.baml
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\ShoZaWPF.g.resources
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\ShoZaWPF.Properties.Resources.resources
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\ShoZaWPF.csproj.GenerateResource.cache
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\ShoZaWPF.csproj.CoreCompileInputs.cache
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\ShoZaWPF.exe
+F:\Алмазное Мусорное Ведро\ShoZaWPF\ShoZaWPF\obj\Debug\ShoZaWPF.pdb
