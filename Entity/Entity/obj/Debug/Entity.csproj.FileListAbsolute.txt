@@ -1,0 +1,13 @@
+F:\Алмазное Мусорное Ведро\Entity\Entity\bin\Debug\Entity.exe.config
+F:\Алмазное Мусорное Ведро\Entity\Entity\bin\Debug\Entity.exe
+F:\Алмазное Мусорное Ведро\Entity\Entity\bin\Debug\Entity.pdb
+F:\Алмазное Мусорное Ведро\Entity\Entity\bin\Debug\EntityFramework.dll
+F:\Алмазное Мусорное Ведро\Entity\Entity\bin\Debug\EntityFramework.SqlServer.dll
+F:\Алмазное Мусорное Ведро\Entity\Entity\bin\Debug\EntityFramework.xml
+F:\Алмазное Мусорное Ведро\Entity\Entity\bin\Debug\EntityFramework.SqlServer.xml
+F:\Алмазное Мусорное Ведро\Entity\Entity\bin\Debug\ru\EntityFramework.resources.dll
+F:\Алмазное Мусорное Ведро\Entity\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+F:\Алмазное Мусорное Ведро\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+F:\Алмазное Мусорное Ведро\Entity\Entity\obj\Debug\Entity.csproj.CopyComplete
+F:\Алмазное Мусорное Ведро\Entity\Entity\obj\Debug\Entity.exe
+F:\Алмазное Мусорное Ведро\Entity\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,7 @@
+F:\Алмазное Мусорное Ведро\Server\Server\bin\Debug\Server.exe.config
+F:\Алмазное Мусорное Ведро\Server\Server\bin\Debug\Server.exe
+F:\Алмазное Мусорное Ведро\Server\Server\bin\Debug\Server.pdb
+F:\Алмазное Мусорное Ведро\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Алмазное Мусорное Ведро\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Алмазное Мусорное Ведро\Server\Server\obj\Debug\Server.exe
+F:\Алмазное Мусорное Ведро\Server\Server\obj\Debug\Server.pdb
